@@ -29,4 +29,4 @@ export const navLinks = [
         url: "#",
         label:"Contacts",
     },
-]
+];
