@@ -12,7 +12,7 @@
 
   .nav__link:hover::after {
     @apply scale-x-100 origin-bottom-left;
-  }
+  };
 
   .text-bg{
     background-image: linear-gradient(to right, #8750f7 0%, white 100%);
