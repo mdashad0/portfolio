@@ -8,7 +8,7 @@
            after:block after:content-[''] after:absolute after:h-[3px]
            after:bg-yellow-400 after:w-full after:scale-x-0
            after:transition-transform after:duration-300 after:origin-bottom-right;
-  }
+  };
 
   .nav__link:hover::after {
     @apply scale-x-100 origin-bottom-left;
